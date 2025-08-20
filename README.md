@@ -29,8 +29,6 @@
 - **[Trilha CSS – Desafio #01](https://github.com/everaldoalexandre/trilha-css-desafio-01):** criação de landing page com HTML e CSS.  
 - **[Game Detona Ralph](https://github.com/everaldoalexandre/game-detona-ralph):** desafio em JavaScript e HTML para construir um game simples.  
 
-_(Adicione outros projetos com links e descrições conforme desejar.)_
-
 ---
 
 ##  GitHub Stats
