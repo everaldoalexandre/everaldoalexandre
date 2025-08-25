@@ -36,9 +36,6 @@ Ferramentas / tools:
     </a> 
     <a href="mailto:everaldo.ubuntu@gmail.com">
         <img height="28em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a> 
-    <a href="https://everaldoalexandre.github.io/" target="_blank">
-        <img height="28em" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" target="_blank">
     </a>
 </div>
 
