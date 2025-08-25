@@ -42,6 +42,14 @@ Ferramentas / tools:
     </a>
 </div>
 
+###  Curiosidades
+
+- 📚 Sempre em busca de aprender algo novo!
+- 🤝 Acredito no poder de compartilhar conhecimento.
+
+> _“Comece onde você está. Use o que tiver. Faça o que puder.”_ – Arthur Ashe
+
+
 ###  :bar_chart: Status / Stats:
 <div align="center">
   <a href="https://github.com/everaldoalexandre">
@@ -49,12 +57,4 @@ Ferramentas / tools:
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everaldoalexandre&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-    <div align="center"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=everaldoalexandre&theme=tokyonight&border_radius=5"/></div>
-
-###  Curiosidades
-
-- 📚 Sempre em busca de aprender algo novo!
-- 🤝 Acredito no poder de compartilhar conhecimento.
-
-> _“Comece onde você está. Use o que tiver. Faça o que puder.”_ – Arthur Ashe
 
